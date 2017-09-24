@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/trujunzhang/politic-book/issues"
   },
-  "homepage": "https://github.com/trujunzhang/politic-book#readme"
+  "homepage": "https://github.com/trujunzhang/politic-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
 }
