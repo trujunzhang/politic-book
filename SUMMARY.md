@@ -2,7 +2,7 @@
 ### GETTING STARTED
 
 * [Installation and Setup](deployment/deploy.md)
-* [Docker on the DigitalOcean](deployment/droplet.md)
+* [Droplet on the DigitalOcean](deployment/droplet.md)
 
 ### Websites
 
