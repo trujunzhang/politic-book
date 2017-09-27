@@ -10,7 +10,7 @@
 * [History](websites/history.md)
 
 ### Project
-* [Python Scripts](project/introduction.md)
+* [Directory Structure](project/introduction.md)
     
 ### Scripts Maintain
 
