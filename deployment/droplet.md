@@ -1,6 +1,6 @@
 ## Droplet on the DigitalOcean
 
-### Environment Running the scripts(09/01/2017)
+#### Environment about the scripts (09/01/2017)
 
 ```
 Droplet address: 128.199.185.13
@@ -8,14 +8,14 @@ OS: Ubuntu 16.04.2 LTS (GNU/Linux 4.4.0-96-generic x86_64)
 Docker version 17.05.0-ce, build 89658be
 ```
 
-### Docker PS Information
+#### Docker PS Information
 On digital ocean, list the docker's information. Just run the following commander.
 
 ```
 docker ps -a
 ```
 
-Will list the following table.
+It will list the following table Data.
 
 |CONTAINER ID        |IMAGE                     |COMMAND           |           PORTS                      |                    NAMES  |
 | -------------------|:------------------------:| ----------------:|-------------------------------------:|--------------------------:|

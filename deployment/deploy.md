@@ -36,7 +36,7 @@ http://128.199.185.13:6800/
 ```
 
 ## Using it Now
-After installed the docker's container. It is just a python server.
+After installed the docker's container. It is just a python server. No projects.
 Next step is that how to deploy our 'politicl-crawler-scraper' and run it as scheduled tasks.
 
 #### How to schedule the scripts per 30 minutes
@@ -80,4 +80,28 @@ Finally, paste the following and save it.
 
 ```
 
+
+## Deploying our 'politicl-crawler-scraper' project
+
+#### Using 'scrapyd-client' commander
+
+Scrapyd Client is Command line client for Scrapyd server.
+
+```
+https://github.com/scrapy/scrapyd-client
+```
+
+Run the following commander on your client terminal.
+
+```
+pip install scrapyd-client
+```
+
+#### Ready to deploy
+ 
+After installed 'scrapyd-client', just run the following commander to deploy our scripts project to the Scrapyd server.
+
+```
+scrapyd-deploy droplet -p cwpoliticl
+```
 
