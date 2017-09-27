@@ -15,26 +15,21 @@ The project structure looks something like this:
 ├── main.py
 ├── scrapy.cfg
 ├── setup.py
-
-├── chapter-1/
-|   ├── README.md
+├── cwpoliticl/
+|   ├── scraped_websites.py
 |   └── something.md
-└── chapter-2/
-    ├── README.md
-    └── something.md
 ```
 
 An overview of what each of these does:
 
 
 
-| File                    |     Description                                                 |
-|------------------------:|----------------------------------------------------:|
+| File                     |     Description                                                 |
+|-------------------------:|----------------------------------------------------:|
 | main.py                  |        only used for develop, you can run it locally                   |
 | scrapy.cfg               | Scrapyd searches for configuration files in the following locations, and parses them |
 | Setup.py                 | Automatically created by: scrapyd-deploy |
-
-
+| scraped_websites.py      | Stored all scraped websites data                   |
 
 
 
