@@ -2,7 +2,7 @@
 ### GETTING STARTED
 
 * [Installation and Setup](deployment/deploy.md)
-* [Droplet on the DigitalOcean](deployment/droplet.md)
+* [Droplet on DigitalOcean](deployment/droplet.md)
 
 ### Crawler Websites
 
