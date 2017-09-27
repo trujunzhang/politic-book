@@ -22,4 +22,10 @@ Requirements
 * Scrapyd (Used to schedule tasks)
 * Works only on Ubuntu(Linux)'s Docker container
 
+Project Now
+=============
 
+```
+git respository: https://bitbucket.org/sidkarwal/politicl-crawler-scraper
+branch: fix.pagination.2017.3.3
+```
