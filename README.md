@@ -20,6 +20,6 @@ Requirements
 * beautifulsoup4 (Also only support for Python3)
 * Scrapy (python framework)
 * Scrapyd (Used to schedule tasks)
-* Works only on Docker's Ubuntu (Linux)
+* Works only on Ubuntu(Linux)'s Docker container
 
 
