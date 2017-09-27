@@ -1,6 +1,6 @@
 ## Scrapyd Server(docker version)
 
-### Installation
+#### Requirements
 
 Using Fuxingloh's Docker File to deploy scrapyd.
  
@@ -8,7 +8,7 @@ Using Fuxingloh's Docker File to deploy scrapyd.
 https://github.com/Fuxingloh/docker-scrapyd/blob/master/1.2.0/Dockerfile
 ```
 
-#### Scrapyd using Docker's container
+#### Install scrapyd as Docker's container
 
 Run the following commander to create a docker's container.
 
@@ -27,6 +27,17 @@ To bash the created scrapyd docker, run the following commander.
 ```
 $ docker exec -it politicl-scrapyd bash
 ```
+
+#### Remote to access the scrapyd server
+
+Open your favorite browser, type the following url to access the scrapyd server.
+```
+http://128.199.185.13:6800/
+```
+
+## Using it Now
+After installed the docker's container. It is just a python server.
+Next step is that how to deploy our 'politicl-crawler-scraper' and run it as scheduled tasks.
 
 #### How to schedule the scripts per 30 minutes
 
