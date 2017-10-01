@@ -19,4 +19,5 @@
 
 ### Politicl Maintain Web app
 
+* [Introduction](app/introduction.md)
 * [How to use](app/use.md)
